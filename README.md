@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I'm continuously learning new technologies and creating personal projects to improve my skills.
 
 
+- ⚡ Languages I work with: C, C++, Embedded C, Assembly
 
 - 📫 How to reach me: Use the badges above 😃
 <!--
