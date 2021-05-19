@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: Use the badges above 😃
+<!--
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true">
-
+-->
 ⭐️ From [Muhammad Ahmed Raza](https://github.com/maverickahmed)
