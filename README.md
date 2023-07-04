@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### I am Muhammad Ahmed Raza
 
 - 🎓 I am an Embedded Software Engineer.
+
 Innovative Electrical Engineer with a proven track record of creating embedded software and hardware products in a beneficial way. Adept in carefully diagnosing and assessing issues, and offering real viable solutions. Skilled in remote work practices, using agile frameworks, and collaborative tools. Committed to working as a contributing and positive team member, striving to expand my knowledge and expertise for ever-evolving engineering challenges.
 
 - 🔭 I'm passionate about Robotics, Embedded Systems, Firmware Development.
