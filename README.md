@@ -1,42 +1,45 @@
-
-
-<!--
-**MaverickAhmed/maverickahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi There! 👋
+# Hi, I am Muhammad Ahmed Raza! 👋
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-maverickahmed-gray?labelColor=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickahmed/)](https://www.linkedin.com/in/maverickahmed/)
 [![Email](https://img.shields.io/badge/Gmail-maverickahmed-gray?labelColor=d44638&style=flat-square&logo=gmail&logoColor=white&link=mailto:ahmedraza24201@gmail.com)](mailto:ahmedraza24201@gmail.com)
 
 
-### I am Muhammad Ahmed Raza
+<h1 align="left"><b>Hi , I'm Ali Hamza Malik   </b><img src = "https://https://github.com/MaverickAhmed/maverickahmed/main/profile.gif" width = 50px></h1>
 
-- 🎓 I am an Embedded Software Engineer.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihamzamalik/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalik.bee19seecs@seecs.edu.pk)
 
-Innovative Electrical Engineer with a proven track record of creating embedded software and hardware products in a beneficial way. Adept in carefully diagnosing and assessing issues, and offering real viable solutions. Skilled in remote work practices, using agile frameworks, and collaborative tools. Committed to working as a contributing and positive team member, striving to expand my knowledge and expertise for ever-evolving engineering challenges.
+<!-- <p align="center">
+</p>
+<br> -->
 
-- 🔭 I'm passionate about Robotics, Embedded Systems, Firmware Development.
+## <picture><img src ="https://github.com/alirafiqmalik/alirafiqmalik/blob/main/aboutme.gif" width = 50px></picture> **About me**
+- 🎓 In my Final Year of Bachelor's in Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
 
+- ⚡ I have experience in Embedded Systems, Hardware and Software Development with knowledge of Machine Learning.     
 
-- 🌱 I'm continuously learning new technologies and creating personal projects to improve my skills.
+- 🔭 I am currently working on Securing the IC Supply Chain using Logic Locking and Event Driven UAV Swarm Configuration Protocols.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+<p align="left"> 
+<a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank"> <img src="https://user-images.githubusercontent.com/65295655/192134352-56426a78-23d1-4fb3-a7dc-64c11695fff8.png" alt="verilog" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tf" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Light.svg" alt="rpi" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="bash" width="40" height="40"/> </a>
+</p>
+  
+-----
+  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-- ⚡ Languages I work with: C, C++, Embedded C, Assembly
+<p align="center">
+  <!-- GitHub Stats -->
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alirafiqmalik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
 
-- 📫 How to reach me: Use the badges above 😃
-<!--
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true">
--->
-⭐️ From [Muhammad Ahmed Raza](https://github.com/maverickahmed)
+  <!-- Most Used Languages -->
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alirafiqmalik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact" />
+
+-----
