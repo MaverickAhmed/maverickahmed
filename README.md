@@ -1,12 +1,7 @@
-# Hi, I am Muhammad Ahmed Raza! 👋
+<h1 align="left"><b>Hi , I'm Muhammad Ahmed Raza   </b><img src = "https://github.com/MaverickAhmed/maverickahmed/blob/main/profile.gif" width = 50px></h1>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-maverickahmed-gray?labelColor=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickahmed/)](https://www.linkedin.com/in/maverickahmed/)
 [![Email](https://img.shields.io/badge/Gmail-maverickahmed-gray?labelColor=d44638&style=flat-square&logo=gmail&logoColor=white&link=mailto:ahmedraza24201@gmail.com)](mailto:ahmedraza24201@gmail.com)
 
-
-<h1 align="left"><b>Hi , I'm Muhammad Ahmed Raza   </b><img src = "https://github.com/MaverickAhmed/maverickahmed/blob/main/profile.gif" width = 50px></h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihamzamalik/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalik.bee19seecs@seecs.edu.pk)
 
 <!-- <p align="center">
 </p>
