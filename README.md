@@ -31,9 +31,9 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alirafiqmalik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maverickahmed&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
 
   <!-- Most Used Languages -->
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alirafiqmalik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maverickahmed&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact" />
 
 -----
