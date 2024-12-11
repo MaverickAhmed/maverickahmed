@@ -7,7 +7,7 @@
 
 
 ## <picture><img src ="https://github.com/alirafiqmalik/alirafiqmalik/blob/main/aboutme.gif" width = 50px></picture> **About me**
-- 🎓 In my Final Year of Bachelor's in Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
+- 🎓 I am an Electrical Engineering from the National University of Sciences and Technology (NUST), Islamabad.
 
 - ⚡ I have experience in Embedded Systems, Hardware and Software Development with knowledge of Machine Learning.     
 
