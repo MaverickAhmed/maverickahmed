@@ -8,7 +8,7 @@
 
 <!-- ## <picture><img src ="https://github.com/alirafiqmalik/alirafiqmalik/blob/main/aboutme.gif" width = 50px></picture> **About me** -->
 ## **About me**
-- 🎓 I am an Electrical Engineering from the National University of Sciences and Technology (NUST), Islamabad.
+- 🎓 I am an Electrical Engineer from the National University of Sciences and Technology (NUST), Islamabad.
 
 - ⚡ I have experience in Embedded Systems, Hardware and Software Development with knowledge of Machine Learning.     
 
