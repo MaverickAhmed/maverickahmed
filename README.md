@@ -1,6 +1,3 @@
-# Hi, I am Muhammad Ahmed Raza! 👋
-
-
 
 <h1 align="left"><b>Hi , I'm Muhammad Ahmed Raza   </b><img src = "https://github.com/MaverickAhmed/maverickahmed/blob/main/profile.gif" width = 50px></h1>
 
