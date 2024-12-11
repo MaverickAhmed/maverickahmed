@@ -1,5 +1,5 @@
 
-<h1 align="left"><b>Hi , I'm Muhammad Ahmed Raza   </b><img src = "https://github.com/MaverickAhmed/maverickahmed/blob/main/profile.gif" width = 50px></h1>
+<h1 align="left"><b>Hi 👋, I'm Muhammad Ahmed Raza   </b><img src = "https://github.com/MaverickAhmed/maverickahmed/blob/main/profile.gif" width = 50px></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-maverickahmed-gray?labelColor=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maverickahmed/)](https://www.linkedin.com/in/maverickahmed/)
 [![Email](https://img.shields.io/badge/Gmail-maverickahmed-gray?labelColor=d44638&style=flat-square&logo=gmail&logoColor=white&link=mailto:ahmedraza24201@gmail.com)](mailto:ahmedraza24201@gmail.com)
